@@ -6,10 +6,23 @@ h1{
 	font-size: 14;
 }
 
+.experience-heading {
+	font-style: italic;
+	font-weight:bold;
+	font-size: 10;
+	color: black;
+}
+
+	
+
 div{
 
-	background-color:lightgray;width:70%; /* set the width you want for the div */
+	background-color:lightgray;
+	width:1000px; /* set the width you want for the div */
 margin: 0  auto; /*   used to   center the div */
 text-align:left; /* left justifies the text inside of the div */
 padding:20px;
+border: 40px solid blue;
+box-sizing: border-box;
+
 }
