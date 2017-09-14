@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+}
+h1{
+	font-style: bold;
+	font-size: 14;
+}
+
+div{
+
+	background-color:lightgray;width:70%; /* set the width you want for the div */
+margin: 0  auto; /*   used to   center the div */
+text-align:left; /* left justifies the text inside of the div */
+padding:20px;
+}
