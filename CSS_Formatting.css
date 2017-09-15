@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+h1{
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+.experience-heading {
+	font-style: italic;
+	font-weight:bold;
+	font-size: 11pt;
+	color: black;
+}
+h3{
+	
+	font-weight: bold;
+	font-size: 14pt;
+	color: blue;
+}
+
+div{
+
+	background-color:lightgray;
+	width:1000px; /* set the width you want for the div */
+margin: 0  auto; /*   used to   center the div */
+text-align:left; /* left justifies the text inside of the div */
+padding:20px;
+border: 40px solid blue;
+box-sizing: border-box;
+
+}
